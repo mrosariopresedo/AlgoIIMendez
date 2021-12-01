@@ -1,0 +1,5 @@
+Barraskewda;136;30;marron
+Arceus;120;320;blanco
+Tentacruel;100;55;azul
+Starmie;115;80;morado
+Floatzel;115;33;marron
