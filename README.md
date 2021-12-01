@@ -1,6 +1,5 @@
 # TDA LISTA SE, PILA Y COLA
 
-|  |  |
 | ----------- | ----------- |
 | Fecha | 2C2020 |
 | Universidad | Universidad de Buenos Aires - Facultad de Ingeniería |
