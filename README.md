@@ -6,9 +6,9 @@
 | Universidad | Universidad de Buenos Aires - Facultad de Ingeniería |
 | Cátedra | Méndez |
 | Lenguaje | C |
-| Compilación | gcc *.c -g -Wall -Wconversion -Werror -Wtype-limits -pedantic -O0 -o lista |
-| Ejecución | ./lista |
-| Valgrind | valgrind --leak-check=full --track-origins=yes --show-reachable=yes ./lista | 
+| Compilación | `gcc *.c -g -Wall -Wconversion -Werror -Wtype-limits -pedantic -O0 -o lista` |
+| Ejecución | `./lista` |
+| Valgrind | `valgrind --leak-check=full --track-origins=yes --show-reachable=yes ./lista` | 
 
 ### Objetivo
 
