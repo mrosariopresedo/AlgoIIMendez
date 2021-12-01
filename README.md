@@ -12,10 +12,9 @@
 
 ### Objetivo
 
-Se pide implementar una **Lista Simplemente Enlazada**. Para ello se brindan las firmas de las funciones públicas a implementar y se deja a criterio del alumno la creación de las 
-funciones privadas del TDA para el correcto funcionamiento de la Lista cumpliendo con las buenas prácticas de programación. Dentro de este TDA, se pide incluir también la 
-implementación de las funciones básicas de los **TDAs Pila y Cola**, cumpliendo así que este satisfaga el comportamiento de las tres estructuras. Adicionalmente se pide la creación
-de un **iterador interno** y uno **externo** para la lista.
+Se pide implementar una **Lista Simplemente Enlazada**. Para ello se brindan las firmas de las funciones públicas a implementar y se deja a criterio del alumno la creación de las funciones privadas del TDA para el correcto funcionamiento de la Lista cumpliendo con las buenas prácticas de programación. Dentro de este TDA, se pide incluir también la  implementación de las funciones básicas de los **TDAs Pila y Cola**, cumpliendo así que este satisfaga el comportamiento de las tres estructuras. Adicionalmente se pide la creación de un **iterador interno** y uno **externo** para la lista.
+
+### Especificaciones
 
 En el caso de las **pruebas** el objetivo fue siempre respetar la *anatomía de una prueba*. Esto es: inicialización, afirmación, destrucción. También usé mucho las 
 funciones de la biblioteca con el propósito de hacer más legible el código y poner todo el conjunto de funciones a prueba en determinados momentos, ya que justamente lo 
