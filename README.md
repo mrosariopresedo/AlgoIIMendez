@@ -17,7 +17,7 @@ funciones privadas del TDA para el correcto funcionamiento de la Lista cumpliend
 implementación de las funciones básicas de los **TDAs Pila y Cola**, cumpliendo así que este satisfaga el comportamiento de las tres estructuras. Adicionalmente se pide la creación
 de un **iterador interno** y uno **externo** para la lista.
 
-en el caso de las **pruebas** el objetivo fue siempre respetar la *anatomía de una prueba*. Esto es: inicialización, afirmación, destrucción. También usé mucho las 
+En el caso de las **pruebas** el objetivo fue siempre respetar la *anatomía de una prueba*. Esto es: inicialización, afirmación, destrucción. También usé mucho las 
 funciones de la biblioteca con el propósito de hacer más legible el código y poner todo el conjunto de funciones a prueba en determinados momentos, ya que justamente lo 
 importante es que funcionen en conjunto. Al principio corro las pruebas que son comúnes a todas o varias funciones de la biblioteca y luego me enfoco mas en una implementación 
 en especifico.
