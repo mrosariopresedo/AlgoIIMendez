@@ -1,11 +1,11 @@
 CC = gcc
 CFLAGS = -std=c99 -Wall -Wconversion -Wtype-limits -pedantic -Werror -O0 -g
 
-compilar:
-	$(CC) abb.c mis_pruebas.c -o abb $(CFLAGS) 
+comp:
+	$(CC) heap.c heap_pruebas.c -o heap $(CFLAGS) 
 
-exe: compilar 
-	./abb
+exe: comp 
+	./heap
 
-val: compilar
-	valgrind --leak-check=full --track-origins=yes --show-reachable=yes ./abb
+val: comp
+	valgrind --leak-check=full --track-origins=yes --show-reachable=yes ./heap
