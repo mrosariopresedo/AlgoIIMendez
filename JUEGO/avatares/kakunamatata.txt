@@ -1,0 +1,10 @@
+E;Kakunamatata
+P;Lampent;FUEGO;55;60;40
+P;Swirlix;HADA;49;66;48
+P;Blitzle;ELECTRICO;76;60;32
+P;Bellossom;PLANTA;59;80;95
+P;Lunatone;ROCA;70;55;65
+P;Dragonair;DRAGON;70;86;65
+P;Alomomola;AGUA;65;75;80
+P;Zangoose;NORMAL;90;115;60
+P;Hydreigon;DRAGON;98;105;90

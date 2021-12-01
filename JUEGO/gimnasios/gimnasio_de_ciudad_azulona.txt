@@ -1,0 +1,13 @@
+G;Gimnasio de Ciudad Azulona;Arcoiris;45;2
+L;Erika
+P;Ninetales;FUEGO;100;76;75
+P;Golbat;VENENO;90;70;80
+E;Modelo Dánae
+P;Parasect;PLANTA;30;95;80
+P;Pikachu;ELECTRICO;90;55;40
+E;Dominguera Tania
+P;Arbok;VENENO;80;95;69
+P;Rattata;NORMAL;72;56;35
+E;Chica Chelo
+P;Vileplume;PLANTA;50;80;85
+P;Sandshrew;TIERRA;40;75;85

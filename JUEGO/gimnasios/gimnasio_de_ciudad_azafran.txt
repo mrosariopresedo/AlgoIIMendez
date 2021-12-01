@@ -1,0 +1,13 @@
+G;Gimnasio de Ciudad Azafran;Pantano;85;4
+L;Sabrina
+P;Cloyster;HIELO;70;95;180
+P;Onix;TIERRA;70;45;160
+E;Médium Luismi
+P;Dodrio;NORMAL;110;110;70
+P;Muk;VENENO;50;105;75
+E;Exorcista Narcisa
+P;Ponyta;FUEGO;90;85;55
+P;Slowbro;PSIQUICO;30;75;110
+E;Mentalista Dora
+P;Magneton;ELECTRICO;70;60;95
+P;Farfetch'd;NORMAL;60;90;55

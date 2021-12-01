@@ -1,0 +1,13 @@
+G;Gimnasio de Ciudad Celeste;Cascada;25;1
+L;Misty
+P;Fearow;NORMAL/VOLADOR;100;90;65
+P;Raticate;NORMAL;97;81;60
+E;Dominguera Diana
+T;Charmeleon;FUEGO;80;64;58
+P;Pidgeotto;NORMAL/VOLADOR;71;60;55
+E;Nadadora Betty
+P;Wartortle;AGUA;58;63;80
+P;Ivysaur;PLANTA/VENENO;60;62;63
+E;Nadador Pascual
+P;Metapod;BICHO;30;20;55
+P;Kakuna;BICHO/VENENO;35;25;50

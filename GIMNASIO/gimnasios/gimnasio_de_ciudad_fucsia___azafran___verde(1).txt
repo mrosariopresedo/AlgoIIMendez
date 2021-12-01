@@ -1,0 +1,43 @@
+G;Gimnasio de Ciudad Fucsia;Alma;50;3
+L;Sachiko
+P;Dugtrio;TIERRA;120;100;50
+P;Persian;NORMAL;115;70;60
+E;Campista Benito
+P;Arcanine;FUEGO;95;110;80
+P;Venomoth;BICHO/VENENO;90;65;60
+E;Dominguera Cindy
+P;Meowth;NORMAL;90;45;35
+P;Golduck;AGUA;85;82;78
+E;Chica Alicia
+P;Vulpix;FUEGO;65;41;40
+P;Wigglytuff;HADA;45;70;45
+G;Gimnasio de Ciudad Azafran;Pantano;85;4
+L;Sabrina
+P;Cloyster;AGUA/HIELO;70;95;180
+P;Onix;ROCA/TIERRA;70;45;160
+E;Médium Luismi
+P;Dodrio;NORMAL/VOLADOR;110;110;70
+P;Muk;VENENO;50;105;75
+E;Exorcista Narcisa
+P;Ponyta;FUEGO;90;85;55
+P;Slowbro;AGUA/PSIQUICO;30;75;110
+E;Mentalista Dora
+P;Magneton;ELECTRICO;70;60;95
+P;Farfetch'd;NORMAL/VOLADOR;60;90;76
+G;Gimnasio de Ciudad Verde;Tierra;100;5
+L;Azul
+P;Pinsir;BICHO;85;125;110
+P;Rhydon;TIERA/ROCA;40;130;120
+E;Dúo Nea y Nic
+P;Gyarados;AGUA/VOLADOR;81;125;79
+P;Electrode;ELECTRICO;150;50;70
+E;Entrenador guay Joni
+P;Kingler;AGUA;75;130;115
+P;Magmar;FUEGO;93;95;57
+E;Entrenadora guay Úrsula
+P;Kangaskhan;NORMAL;90;95;80
+P;Dewgong;AGUA/HIELO;70;70;80
+
+
+P;Kangaskhan;NORMAL;90;95;80
+P;Dewgong;AGUA/HIELO;70;70;8055

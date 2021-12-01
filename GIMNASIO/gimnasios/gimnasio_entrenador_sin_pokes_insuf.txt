@@ -1,0 +1,11 @@
+G;Gimnasio de Isla Canela;Volcan;75;3
+L;Blaine
+E;Científico Seve
+P;Tentacruel;AGUA/VENENO;100;70;65
+P;Victreebel;PLANTA/VENENO;70;105;65
+E;Científico Alejandro
+P;Golem;ROCA/TIERRA;45;120;130
+P;Rapidash;FUEGO;105;100;70
+E;Supernecio Abelardo
+P;Growlithe;FUEGO;60;70;45
+P;Psyduck;AGUA;55;52;48

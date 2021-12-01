@@ -1,0 +1,9 @@
+E;Jack Spearow
+P;Wobbuffet;PSIQUICO;33;33;58
+P;Taillow;NORMAL;85;55;30
+P;Claydol;TIERRA;75;70;105
+P;Oshawott;AGUA;45;55;45
+P;Swampert;AGUA;60;110;90
+P;Vanillite;HIELO;44;50;50
+P;Mew;PSIQUICO;100;100;100
+P;Rhyperior;ROCA;40;140;130

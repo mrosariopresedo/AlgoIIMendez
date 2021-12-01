@@ -1,0 +1,14 @@
+G;Gimnasio de Ciudad Carmin;Trueno;35;2
+L;Lt. Surge
+P;Pidgeot;NORMAL/VOLADOR;101;80;75
+P;Charizard;FUEGO/VOLADOR;100;84;78
+L;Ash
+E;Malabarista Gino
+P;Blastoise;AGUA;78;83;100
+P;Venusaur;PLANTA/VENENO;80;82;83
+E;Guitarrista Vito
+P;Beedrill;BICHO/VENENO;75;90;40
+P;Butterfree;BICHO/VOLADOR;70;45;50
+E;Duque Greg
+P;Ekans;VENENO;55;60;44
+P;Bulbasaur;PLANTA/VENENO;45;49;49

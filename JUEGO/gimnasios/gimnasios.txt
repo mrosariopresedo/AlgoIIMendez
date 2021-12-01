@@ -1,0 +1,104 @@
+G;Gimnasio de Ciudad Azafran;Pantano;85;4
+L;Sabrina
+P;Cloyster;HIELO;70;95;180
+P;Onix;TIERRA;70;45;160
+E;Médium Luismi
+P;Dodrio;NORMAL;110;110;70
+P;Muk;VENENO;50;105;75
+E;Exorcista Narcisa
+P;Ponyta;FUEGO;90;85;55
+P;Slowbro;PSIQUICO;30;75;110
+E;Mentalista Dora
+P;Magneton;ELECTRICO;70;60;95
+P;Farfetch'd;NORMAL;60;90;55
+G;Gimnasio de Ciudad Azulona;Arcoiris;45;2
+L;Erika
+P;Ninetales;FUEGO;100;76;75
+P;Golbat;VENENO;90;70;80
+E;Modelo Dánae
+P;Parasect;PLANTA;30;95;80
+P;Pikachu;ELECTRICO;90;55;40
+E;Dominguera Tania
+P;Arbok;VENENO;80;95;69
+P;Rattata;NORMAL;72;56;35
+E;Chica Chelo
+P;Vileplume;PLANTA;50;80;85
+P;Sandshrew;TIERRA;40;75;85
+G;Gimnasio de Ciudad Plateada;Roca;15;1
+L;Brock
+P;Spearow;NORMAL;70;60;30
+P;Charmander;FUEGO;65;52;43
+E;Montañero Belino
+P;Pidgey;NORMAL;56;45;40
+P;Weedle;VENENO;50;35;30
+E;Campista Angelito
+P;Pichu;ELECTRICO;60;40;15
+P;Caterpie;VENENO;45;30;35
+E;Campista Jordan
+P;Squirtle;AGUA;43;48;65
+P;Clefairy;HADA;35;45;48
+G;Gimnasio de Isla Canela;Volcan;75;3
+L;Blaine
+P;Golem;ROCA;45;120;130
+P;Rapidash;FUEGO;105;100;70
+E;Científico Seve
+P;Tentacruel;AGUA;100;70;65
+P;Victreebel;PLANTA;70;105;65
+E;Científico Alejandro
+P;Kadabra;PSIQUICO;105;35;30
+P;Poliwhirl;AGUA;90;65;65
+E;Supernecio Abelardo
+P;Growlithe;FUEGO;60;70;45
+P;Psyduck;AGUA;55;52;48
+G;Gimnasio de Ciudad Verde;Tierra;100;5
+L;Azul
+P;Pinsir;VENENO;85;125;110
+P;Rhydon;TIERA;40;130;120
+E;Dúo Nea y Nic
+P;Gyarados;AGUA;81;125;79
+P;Electrode;ELECTRICO;150;50;70
+E;Entrenador guay Joni
+P;Kingler;AGUA;75;130;115
+P;Magmar;FUEGO;93;95;57
+E;Entrenadora guay Úrsula
+P;Kangaskhan;NORMAL;90;95;80
+P;Dewgong;HIELO;70;70;80
+G;Gimnasio de Ciudad Fucsia;Alma;50;3
+L;Sachiko
+P;Dugtrio;TIERRA;120;100;50
+P;Persian;NORMAL;115;70;60
+E;Campista Benito
+P;Arcanine;FUEGO;95;110;80
+P;Venomoth;VENENO;90;65;60
+E;Dominguera Cindy
+P;Meowth;NORMAL;90;45;35
+P;Golduck;AGUA;85;82;78
+E;Chica Alicia
+P;Vulpix;FUEGO;65;41;40
+P;Wigglytuff;HADA;45;70;45
+G;Gimnasio de Ciudad Celeste;Cascada;25;1
+L;Misty
+P;Fearow;NORMAL;100;90;65
+P;Raticate;NORMAL;97;81;60
+E;Dominguera Diana
+P;Charmeleon;FUEGO;80;64;58
+P;Pidgeotto;NORMAL;71;60;55
+E;Nadadora Betty
+P;Wartortle;AGUA;58;63;80
+P;Ivysaur;PLANTA;60;62;63
+E;Nadador Pascual
+P;Metapod;VENENO;30;20;55
+P;Kakuna;VENENO;35;25;50
+G;Gimnasio de Ciudad Carmin;Trueno;35;2
+L;Lt. Surge
+P;Pidgeot;NORMAL;101;80;75
+P;Charizard;FUEGO;100;84;78
+E;Malabarista Gino
+P;Blastoise;AGUA;78;83;100
+P;Venusaur;PLANTA;80;82;83
+E;Guitarrista Vito
+P;Beedrill;VENENO;75;90;40
+P;Butterfree;PLANTA;70;45;50
+E;Duque Greg
+P;Ekans;VENENO;55;60;44
+P;Bulbasaur;PLANTA;45;49;49

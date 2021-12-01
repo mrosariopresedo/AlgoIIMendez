@@ -1,0 +1,13 @@
+G;Gimnasio de Ciudad Plateada;Roca;15;1
+L;Brock
+P;Spearow;NORMAL;70;60;30
+P;Charmander;FUEGO;65;52;43
+E;Montañero Belino
+P;Pidgey;NORMAL;56;45;40
+P;Weedle;VENENO;50;35;30
+E;Campista Angelito
+P;Pichu;ELECTRICO;60;40;15
+P;Caterpie;VENENO;45;30;35
+E;Campista Jordan
+P;Squirtle;AGUA;43;48;65
+P;Clefairy;HADA;35;45;48

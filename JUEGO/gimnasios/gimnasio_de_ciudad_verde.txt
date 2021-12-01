@@ -1,0 +1,13 @@
+G;Gimnasio de Ciudad Verde;Tierra;100;5
+L;Azul
+P;Pinsir;VENENO;85;125;110
+P;Rhydon;TIERA;40;130;120
+E;Dúo Nea y Nic
+P;Gyarados;AGUA;81;125;79
+P;Electrode;ELECTRICO;150;50;70
+E;Entrenador guay Joni
+P;Kingler;AGUA;75;130;115
+P;Magmar;FUEGO;93;95;57
+E;Entrenadora guay Úrsula
+P;Kangaskhan;NORMAL;90;95;80
+P;Dewgong;HIELO;70;70;80

@@ -1,0 +1,26 @@
+G;Gimnasio de Ciudad Plateada;Roca;15;1
+L;Brock
+P;Spearow;NORMAL/VOLADOR;70;60;30
+P;Charmander;FUEGO;65;52;43
+E;Montañero Belino
+P;Pidgey;NORMAL/VOLADOR;56;45;40
+P;Weedle;BICHO/VENENO;50;35;30
+E;Campista Angelito
+P;Pichu;ELECTRICO;60;40;15
+P;Caterpie;BICHO;45;30;35
+E;Campista Jordan
+P;Squirtle;AGUA;43;48;65
+P;Clefairy;HADA;35;45;48
+G;Gimnasio de Ciudad Azulona;Arcoiris;45;2
+L;Erika
+P;Ninetales;FUEGO;100;76;75
+P;Golbat;VENENO/VOLADOR;90;70;80
+E;Modelo Dánae
+P;Parasect;BICHO/PLANTA;30;95;80
+P;Pikachu;ELECTRICO;90;55;40
+E;Dominguera Tania
+P;Arbok;VENENO;80;95;69
+P;Rattata;NORMAL;72;56;35
+E;Chica Chelo
+P;Vileplume;PLANTA/VENENO;50;80;85
+P;Sandshrew;TIERRA;40;75;85
