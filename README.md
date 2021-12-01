@@ -179,7 +179,6 @@ Algunas aclaraciones:
 7. La carpeta ***Entrenador*** contiene el ***TDA Entrenador*** y un programa de pruebas para verificar que el mismo funcione correctamente. También adjunto un makefile para correr las pruebas (las instrucciones son las mismas mencionadas arriba, personalizadas para las pruebas del entrenador).
 8. La carpeta ***Avatar*** contiene el ***TDA Avatar***, un programa de pruebas y archivos erróneos para verificar que el mismo funcione correctamente. También adjunto un makefile para correr las pruebas (las instrucciones son las mismas mencionadas arriba, personalizadas para las pruebas del avatar). 
 	- Las funciones `pokemon_agregar()`, `pokemon_intercambiar()`, `pokemon_entrenar()` y `medalla_agregar()` se prueban junto con el funcionamiento del juego. Las pruebas de este TDA están orientadas a la creación, lectura y destrucción correcta de un avatar. La función `pokemon_cargar()` lee con el siguiente formato: 
-    
 	```c
     	P;nombre;tipo;velocidad;ataque;defensa
     	```
