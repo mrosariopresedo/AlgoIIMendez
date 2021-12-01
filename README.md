@@ -63,10 +63,11 @@ P;nombre_pokemon1; velocidad; ataque; defensa
 ```
 
 Siendo:
-G: Gimnasio
-L: Lider
-P: Pokémon
-E: Entrenador
+- G: Gimnasio
+- L: Lider
+- P: Pokémon
+- E: Entrenador
+
 Los pokémon que se encuentren entre dos entrenadores pertenecerán al entrenador de arriba. Y las batallas se realizarán de forma creciente, lo que quiere decir que el orden de enfrentamiento será: entrenador_2->entrenador_1 ->líder.
 
 ### Personaje Principal
